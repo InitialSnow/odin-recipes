@@ -7,7 +7,6 @@ body {
 }
 h1 {
     text-align: center;
-    background-color: grey;
     color:rgb(255, 183, 0);
 }
 img {
@@ -15,5 +14,9 @@ img {
     width: 600px;
 }
 button {
+    background-color: grey;
+}
+.cursive {
+    font-family: cursive;
     background-color: grey;
 }
