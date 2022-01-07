@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(44, 47, 51);
+}
+* {
+    color: white;
+    font-family: sans-serif, 'Times New Roman';
+}
+h1 {
+    text-align: center;
+    background-color: grey;
+    color:rgb(255, 183, 0);
+}
+img {
+    height: auto;
+    width: 600px;
+}
+button {
+    background-color: grey;
+}
